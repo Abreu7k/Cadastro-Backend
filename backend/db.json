@@ -5,7 +5,15 @@
         "email":"ga@mail.com"
     },{
         "id": 2,
-        "name":"Yuri gay",
+        "name":"Yuri Sila",
         "email":"yu@mail.com"
+    },{
+        "id":3,
+        "name":"Caio Henrrique",
+        "email":"ca@gmail.com"
+    },{
+        "id":4,
+        "name":"Gabrielle Lamha",
+        "email":"gab@gmail.com"
     }]
 }
